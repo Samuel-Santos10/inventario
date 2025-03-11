@@ -8,8 +8,4 @@ class Product extends Model
 {
     //campos que seran llenados
     protected $fillable = ['name', 'description', 'price', 'stock'];
-
-    
-
-
 }
